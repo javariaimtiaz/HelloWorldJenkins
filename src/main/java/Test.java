@@ -7,6 +7,7 @@ public class Test {
 		System.out.println("Greetings dear students");
 		System.out.println("Welcome to CI/CD session");
 		System.out.println("An Important Phase of DevOps");
+		System.out.println(" EFG");
 
 	}
 
